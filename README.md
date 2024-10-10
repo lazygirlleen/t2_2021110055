@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[Template Design](https://dribbble.com/shots/16079403-Vegetables-Order-App/attachments/7927928?mode=media)
+[Template Design](https://dribbble.com/shots/16079403-Vegetables-Order-App)
 
 ## Getting Started
 
