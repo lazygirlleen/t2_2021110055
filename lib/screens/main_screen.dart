@@ -4,7 +4,6 @@ import 'package:t2_2021110055/screens/welcome_screen.dart';
 import 'package:t2_2021110055/widgets/cart_widget.dart';
 import 'package:t2_2021110055/widgets/home_widget.dart';
 import 'package:t2_2021110055/widgets/info_widget.dart';
-import 'package:t2_2021110055/widgets/profile_widget.dart';
 import 'package:t2_2021110055/widgets/store_widget.dart';
 
 enum MainScreenItem { home, store, cart } // Enum for navigation items
