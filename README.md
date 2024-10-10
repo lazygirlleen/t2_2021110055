@@ -22,6 +22,10 @@ Tugas kedua dari mata Kuliah Pemrograman Piranti bergerak mengenai Template Slic
 ## Feedback
 ![image](https://github.com/user-attachments/assets/792e61ee-e4b2-4934-8b73-01590c29cb41)
 
+## Template Design
+![image](https://github.com/user-attachments/assets/5a912b5d-319a-4c29-aa36-667ebc0f1c7b)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
