@@ -1,14 +1,14 @@
 # t2_2021110055
 
-A new Flutter project.
+Tugas kedua dari mata Kuliah Pemrograman Piranti bergerak mengenai Template Slicing
 
 [Template Design](https://dribbble.com/shots/16079403-Vegetables-Order-App)
 
-![image](https://github.com/user-attachments/assets/0bfd8de9-96d6-4f4b-a032-dab702db4536)
+![Home](https://github.com/user-attachments/assets/0bfd8de9-96d6-4f4b-a032-dab702db4536)
 
-![image](https://github.com/user-attachments/assets/c02fcd15-8bdb-4f83-b9b7-8134968c4ce2)
+![Store](https://github.com/user-attachments/assets/c02fcd15-8bdb-4f83-b9b7-8134968c4ce2)
 
-![image](https://github.com/user-attachments/assets/ba256b90-68be-45c1-a8d2-d18c5a0031fb)
+![Cart](https://github.com/user-attachments/assets/ba256b90-68be-45c1-a8d2-d18c5a0031fb)
 
 ![image](https://github.com/user-attachments/assets/2e340f3c-801d-4732-881d-e48ae665938e)
 
