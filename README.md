@@ -13,10 +13,13 @@ Home
 Store
 ![image](https://github.com/user-attachments/assets/ba256b90-68be-45c1-a8d2-d18c5a0031fb)
 
+Cart
 ![image](https://github.com/user-attachments/assets/2e340f3c-801d-4732-881d-e48ae665938e)
 
+About
 ![image](https://github.com/user-attachments/assets/97f57680-abdc-48a8-8e54-629edab37cec)
 
+Feedback
 ![image](https://github.com/user-attachments/assets/792e61ee-e4b2-4934-8b73-01590c29cb41)
 
 ## Getting Started
