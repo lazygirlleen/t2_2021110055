@@ -4,12 +4,14 @@ Tugas kedua dari mata Kuliah Pemrograman Piranti bergerak mengenai Template Slic
 
 [Template Design](https://dribbble.com/shots/16079403-Vegetables-Order-App)
 
-[Welcome page]
-![Home](https://github.com/user-attachments/assets/0bfd8de9-96d6-4f4b-a032-dab702db4536)
+Welcome page
+![image](https://github.com/user-attachments/assets/0bfd8de9-96d6-4f4b-a032-dab702db4536)
 
-![Store](https://github.com/user-attachments/assets/c02fcd15-8bdb-4f83-b9b7-8134968c4ce2)
+Home
+![image](https://github.com/user-attachments/assets/c02fcd15-8bdb-4f83-b9b7-8134968c4ce2)
 
-![Cart](https://github.com/user-attachments/assets/ba256b90-68be-45c1-a8d2-d18c5a0031fb)
+Store
+![image](https://github.com/user-attachments/assets/ba256b90-68be-45c1-a8d2-d18c5a0031fb)
 
 ![image](https://github.com/user-attachments/assets/2e340f3c-801d-4732-881d-e48ae665938e)
 
